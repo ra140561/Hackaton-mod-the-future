@@ -1,2 +1,2 @@
-# Hackaton-mod-the-future
+# Hackathon-mod-the-future
 Motorola Snaps hacking
